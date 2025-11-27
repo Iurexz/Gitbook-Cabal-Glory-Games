@@ -34,11 +34,17 @@ A coleta automática funciona apenas **dentro de Dungeons**, não sendo necessá
 
 ***
 
-* **Auto-Quest (F6)**
+* **Auto-Quest (F7)**
 
 O Auto-quest é um sistema responsável por realizar todas as quests **dentro de dungeons**, não sendo necessário criar nas missões, deixando você totalmente livre e focado apenas em matar os mobs e clicar nos pontos de quest dentro das dungeons.
 
-<sub>_Observação: Pressione_</sub><sub>_&#x20;_</sub><sub>_**F6**_</sub><sub>_&#x20;_</sub><sub>_para ativar ou desativar o sitema (Em breve, teremos uma janela apenas para ativar e desativar todos os sitemas do nosso servidor)_</sub>
+<sub>_Observação: Pressione_</sub><sub>_&#x20;_</sub><sub>_**F7**_</sub><sub>_&#x20;_</sub><sub>_para ativar ou desativar o sitema (Em breve, teremos uma janela apenas para ativar e desativar todos os sitemas do nosso servidor)_</sub>
+
+***
+
+* **Auto-Loot (F8)**
+
+Auto-Loot é uma função automática que recolhe itens deixados por inimigos ou itens de baú sem que você precise clicar manualmente em cada um. Isso torna o jogo mais prático e ágil durante combates e farming.
 
 ***
 
