@@ -62,4 +62,5 @@ Ao clicar na ferramenta de [Extração de itens](https://i.ibb.co/4Z6Y9x5c/Captu
 
 ***
 
-* **Seleção de Nação ao Logar**
+*
+

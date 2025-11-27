@@ -1,2 +1,0 @@
-# 🛡️ Intermediação Segura
-

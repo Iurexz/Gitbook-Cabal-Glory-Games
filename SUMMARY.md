@@ -9,4 +9,4 @@
 
 ***
 
-* [🛡️ Intermediação Segura](intermediacao-segura.md)
+* [💰 Lojas (PC & WExp)](lojas-pc-and-wexp.md)
