@@ -40,7 +40,7 @@ O Auto-quest é um sistema responsável por realizar todas as quests **dentro de
 
 <sub>_Observação: Pressione_</sub><sub>_&#x20;_</sub><sub>_**F7**_</sub><sub>_&#x20;_</sub><sub>_para ativar ou desativar o sitema (Em breve, teremos uma janela apenas para ativar e desativar todos os sitemas do nosso servidor)_</sub>
 
-***
+<figure><img src="../.gitbook/assets/F7 AUTOQUEST, F8 AUTOLOOT.jpg" alt=""><figcaption></figcaption></figure>
 
 * **Auto-Loot (F8)**
 
@@ -68,5 +68,32 @@ Ao clicar na ferramenta de [Extração de itens](https://i.ibb.co/4Z6Y9x5c/Captu
 
 ***
 
-*
+**ANIMAÇÕES**
 
+* Removido o tempo de lance dos **Buffs** em todas as classes do servidor;
+* Removido o tempo de lance de todos os **Debuffs** em todas as classes do servidor;
+
+<sub>_<mark style="color:orange;">Na Terra Gloriosa (TG) - Permanece o tempo de lance dos debuffs normal das classes;</mark>_</sub>
+
+* Removido o tempo e animação de ativação de **todas** as **BM's**;
+* Removido o tempo e animação de ativação de **todas** as **Auras**;
+* Seleção de Servidor e Seleção de Personagem não possui mais tempo de espera;
+
+***
+
+**REDUÇÕES**
+
+* Reduzido o tempo de Criação na Chloe para **1** Segundo;
+* Reduzido o tempo ao Craft um Item;
+* Removido o tempo de espera para utilizar o "**Amplificador Épico**";
+*   Removido o tempo de espera de todos os "**Kits de Reparo"**;
+
+
+
+***
+
+**MELHORIAS & AJUSTES (**_**No lançamento**_**)**
+
+* Todas as Rates (%) de EXP, AXP e PET EXP foram ajustadas e melhoradas;
+* Recompensas de DG e DX alteradas, veja em [Recompensas de DG & DX](https://glory-games.gitbook.io/glory-games-server-project/infos-and-outros/recompensas-de-dg-and-dx);
+* Pergaminhos de AMP, TAXA, Max. Taxa **não são dropados**;
