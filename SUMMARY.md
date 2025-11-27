@@ -6,3 +6,7 @@
 
 * [📖 O Começo](informacoes-sobre-o-glory/o-comeco.md)
 * [🛠️ Sistemas & Melhorias](informacoes-sobre-o-glory/sistemas-and-melhorias.md)
+
+***
+
+* [🛡️ Intermediação Segura](intermediacao-segura.md)
