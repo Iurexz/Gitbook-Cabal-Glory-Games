@@ -42,4 +42,7 @@ coverHeight: 402
 
 <sub>_**x10 Tkt Troca Medalha de Mérito:**_</sub><sub>_&#x20;_</sub><sub>_15.000 Wexp_</sub>
 
-<sub>_**Ticket de Entrada de Batalha PvP:**_</sub><sub>_&#x20;_</sub><sub>_100.000 Alz_</sub>
+<sub>_**Ticket de Entrada de Batalha PvP:**_</sub><sub>_&#x20;_</sub><sub>_100.000 Alz_</sub>\
+<br>
+
+<sub>_**x10**_</sub> [<sub>_**Benção do GM Nv.5**_</sub>](https://i.ibb.co/8DthccM2/Captura-de-tela-2025-07-14-010458.png)<sub>_**:**_</sub><sub>_&#x20;_</sub><sub>_3.000 Wexp_</sub>
