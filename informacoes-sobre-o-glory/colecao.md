@@ -47,4 +47,4 @@ Para facilitar a coleção, foram reduzidos diversos artigos onde eram solicitad
 
 <sub>_**Não queremos postar uma lista imensa aqui de informações de redução de coleção, então acompanhem alguns exemplos, e assim que possível, vocês poderão fazer vossa analise crítica dentro do jogo.**_</sub>
 
-Um exemplo básico, é a questão de coleção de "**Aprimoramentos & Arcanos**", que por padrão é solicitado **grandes quantidades,** agora passou a ser solicitado apenas _**1.000**_, uma redução expressiva dos valores solicitados.
+Um exemplo básico, é a questão de coleção de "**Aprimoramentos & Arcanos**", que por padrão é solicitado **grandes quantidades,** agora passou a ser solicitado apenas &#x35;_**00**_, uma redução expressiva dos valores solicitados.
