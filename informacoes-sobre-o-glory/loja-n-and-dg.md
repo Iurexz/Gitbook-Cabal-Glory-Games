@@ -4,7 +4,7 @@ coverY: 0
 coverHeight: 415
 ---
 
-# 🛒 Loja (N)
+# 🛒 Loja (N & DG)
 
 <mark style="color:$info;">Loja padrão, conhecida como Loja N. É necessário possuir "Cartão de Loja Remota" para poder abrir essa loja.</mark>
 
@@ -75,3 +75,7 @@ coverHeight: 415
 <br>
 
 <sub>**x10 Pedra de Treinamento**</sub><sub>: 100.000.000 Alz</sub>
+
+***
+
+<figure><img src="../.gitbook/assets/LOJA DG.jpg" alt=""><figcaption></figcaption></figure>

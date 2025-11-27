@@ -7,7 +7,7 @@
 * [📖 O Começo](informacoes-sobre-o-glory/o-comeco.md)
 * [🛠️ Sistemas & Melhorias](informacoes-sobre-o-glory/sistemas-and-melhorias.md)
 * [💰 Lojas (PC & WExp)](informacoes-sobre-o-glory/lojas-pc-and-wexp.md)
-* [🛒 Loja (N)](informacoes-sobre-o-glory/loja-n.md)
+* [🛒 Loja (N & DG)](informacoes-sobre-o-glory/loja-n-and-dg.md)
 * [📦 Coleção](informacoes-sobre-o-glory/colecao.md)
 * [Asa Arcana](informacoes-sobre-o-glory/asa-arcana.md)
 * [Link Estelar](informacoes-sobre-o-glory/link-estelar.md)
