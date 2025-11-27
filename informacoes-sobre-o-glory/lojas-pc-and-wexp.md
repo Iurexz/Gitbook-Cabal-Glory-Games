@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/lj.avif
+cover: ../.gitbook/assets/lj.avif
 coverY: 0
 coverHeight: 402
 ---
@@ -10,7 +10,7 @@ coverHeight: 402
 
 **LOJA DE WEXP - Experiência de Guerra**
 
-<figure><img src=".gitbook/assets/LOJA WEXP.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LOJA WEXP.jpg" alt=""><figcaption></figcaption></figure>
 
 💵**Valores de cada item da loja de Wexp:**
 
@@ -133,7 +133,7 @@ coverHeight: 402
 
 **LOJA DE PC - Pontos de Calabouço**
 
-<figure><img src=".gitbook/assets/loja pc.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/loja pc.jpg" alt=""><figcaption></figcaption></figure>
 
 💵**Valores de cada item da loja de PC:**
 
