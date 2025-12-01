@@ -50,3 +50,11 @@ Para facilitar a coleção, foram reduzidos diversos artigos onde eram solicitad
 Um exemplo básico, é a questão de coleção de "**Aprimoramentos & Arcanos**", que por padrão é solicitado **grandes quantidades,** agora passou a ser solicitado apenas &#x35;_**00**_, uma redução expressiva dos valores solicitados.
 
 <figure><img src="../.gitbook/assets/Coleção bufada e diminuida.jpg" alt=""><figcaption></figcaption></figure>
+
+***
+
+* **Status da Coleção**
+
+<figure><img src="../.gitbook/assets/status colec.gif" alt=""><figcaption></figcaption></figure>
+
+<sub>_Dentre essas alterações, muitas outras tiveram reduções entre_</sub><sub>_&#x20;_</sub><sub>_**30% e 80%**_</sub><sub>_. Entre em nosso servidor e confira as demais. Estaremos te esperando para ouvir sua opinião sobre as mudanças no sistema, boas sugestões são sempre muito bem-vindas!_</sub>
