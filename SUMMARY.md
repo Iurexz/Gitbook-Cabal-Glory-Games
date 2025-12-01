@@ -9,7 +9,7 @@
 * [💰 Lojas (PC & WExp)](informacoes-sobre-o-glory/lojas-pc-and-wexp.md)
 * [🛒 Loja (N & DG)](informacoes-sobre-o-glory/loja-n-and-dg.md)
 * [📦 Coleção](informacoes-sobre-o-glory/colecao.md)
-* [Asa Arcana](informacoes-sobre-o-glory/asa-arcana.md)
+* [🪽 Asa Arcana](informacoes-sobre-o-glory/asa-arcana.md)
 * [Link Estelar](informacoes-sobre-o-glory/link-estelar.md)
 * [Máquina de Cupons](informacoes-sobre-o-glory/maquina-de-cupons.md)
 * [Loja Secreta](informacoes-sobre-o-glory/loja-secreta.md)
