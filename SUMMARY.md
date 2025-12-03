@@ -1,20 +1,17 @@
 # Table of contents
 
 * [🎉 Bem-vindo ao Glory Games.](README.md)
-
-## INFORMAÇÕES SOBRE O GLORY
-
-* [📖 O Começo](informacoes-sobre-o-glory/o-comeco.md)
-* [🛠️ Sistemas & Melhorias](informacoes-sobre-o-glory/sistemas-and-melhorias.md)
-* [📦 Coleção](informacoes-sobre-o-glory/colecao.md)
-* [🪽 Asa Arcana](informacoes-sobre-o-glory/asa-arcana.md)
-* [Link Estelar](informacoes-sobre-o-glory/link-estelar.md)
-* [Máquina de Cupons](informacoes-sobre-o-glory/maquina-de-cupons.md)
-* [Loja Secreta](informacoes-sobre-o-glory/loja-secreta.md)
-* [Recompensas de DG & DX](informacoes-sobre-o-glory/recompensas-de-dg-and-dx.md)
-* [Runas (Geral)](informacoes-sobre-o-glory/runas-geral.md)
+* [📖 O Começo](o-comeco.md)
+* [🛠️ Sistemas & Melhorias](sistemas-and-melhorias.md)
+* [📦 Coleção](colecao.md)
+* [🪽 Asa Arcana](asa-arcana.md)
+* [Link Estelar](link-estelar.md)
+* [Máquina de Cupons](maquina-de-cupons.md)
+* [Loja Secreta](loja-secreta.md)
+* [Recompensas de DG & DX](recompensas-de-dg-and-dx.md)
+* [Runas (Geral)](runas-geral.md)
+* [🛒 Sobre as Lojas](sobre-as-lojas/README.md)
+  * [🛒 Loja (N & DG)](sobre-as-lojas/loja-n-and-dg.md)
+  * [💰 Lojas (PC & WExp)](sobre-as-lojas/lojas-pc-and-wexp.md)
 
 ## INFORMAÇÕES SOBRE AS LOJAS
-
-* [💰 Lojas (PC & WExp)](informacoes-sobre-as-lojas/lojas-pc-and-wexp.md)
-* [🛒 Loja (N & DG)](informacoes-sobre-as-lojas/loja-n-and-dg.md)
