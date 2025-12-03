@@ -14,5 +14,3 @@
   * [🛒 Loja (N & DG)](sobre-as-lojas/loja-n-and-dg.md)
   * [💰 Lojas (PC & WExp)](sobre-as-lojas/lojas-pc-and-wexp.md)
   * [Loja Secreta](sobre-as-lojas/loja-secreta.md)
-
-## INFORMAÇÕES SOBRE AS LOJAS
