@@ -12,4 +12,6 @@ coverHeight: 415
 
 ***
 
+### LOJA DE DG'S
+
 <figure><img src="../.gitbook/assets/LOJA DG.jpg" alt=""><figcaption></figcaption></figure>
