@@ -3,6 +3,23 @@ description: Uma descrição básica de como será o começo do nosso servidor.
 cover: ../.gitbook/assets/image.avif
 coverY: 0
 coverHeight: 218
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 📖 O Começo
