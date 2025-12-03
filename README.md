@@ -3,9 +3,9 @@ description: >-
   Um servidor privado desenvolvido com dedicação, profissionalismo e visão de
   futuro. Nossa proposta é oferecer uma experiência de jogo completa, estável e
   emocionante, respeitando a essência do Cabal.
-cover: .gitbook/assets/logo-entrada.jpg
+cover: .gitbook/assets/logo com fundo.png
 coverY: 0
-coverHeight: 310
+coverHeight: 512
 layout:
   width: default
   cover:
