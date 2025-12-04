@@ -42,22 +42,6 @@ _Mas fiquem tranquilos! Com as próximas atualizações, em breve iremos liberar
 
 ***
 
-💎 **PREMIUM INICIANTE**
-
-<sub>A lista abaixo é exclusiva para os jogadores que ingressarem no servidor na</sub> <sub></sub><sub>_**primeira quinzena (15 Dias)**_</sub> <sub></sub><sub>de servidor. Após isso,</sub> <sub>_**todos os períodos de duração serão reduzidos para 7 Dias**_</sub><sub>.</sub>
-
-
-
-* _Premium **15 dias** para todos os novos jogadores;_
-* _Poção de HP e MP ilimitados - **15 Dias**;_
-* _Loja Remota - **15 Dias**;_
-* _Cartão de Armazém remoto - **15 Dias**;_
-* _Buff Platinum (_[_**Único**_](https://i.ibb.co/HDNJr5Cz/Captura-de-tela-2025-07-13-120138.png)_) - **Permanente;**_
-
-
-
-***
-
 
 
 🎁 **KIT INICIANTE**
