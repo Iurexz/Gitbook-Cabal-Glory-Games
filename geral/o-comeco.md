@@ -1,5 +1,6 @@
 ---
 description: Uma descrição básica de como será o começo do nosso servidor.
+hidden: true
 cover: ../.gitbook/assets/image.avif
 coverY: 0
 coverHeight: 218
