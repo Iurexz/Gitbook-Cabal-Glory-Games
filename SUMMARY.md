@@ -23,6 +23,7 @@
   * [📕 Regras de Comportamento Online](regras/regras-de-comportamento-online.md)
   * [📕 Regras de Conduta In-Game](regras/regras-de-conduta-in-game.md)
 * [🔰 Classes](classes/README.md)
+  * [📊 Distribuição de Pontos](classes/distribuicao-de-pontos.md)
   * [Arqueiro Arcano](classes/arqueiro-arcano.md)
   * [Atirador Arcano](classes/atirador-arcano.md)
   * [Duelista](classes/duelista.md)
